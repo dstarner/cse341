@@ -8,4 +8,4 @@ so if you use this for educational/cheating purposes, then prepare for me to fin
 
 ### Projects
 
-1. MIPS Assembly Calculator - Performs basic order of operations with an ASCII string.
+1. [MIPS Assembly Calculator](https://raw.githubusercontent.com/dstarner15/cse341/master/calculator.s) - Performs basic order of operations with an ASCII string. It's not the cleanest code - some of the routines could be reduced - but it works none the less :D 
